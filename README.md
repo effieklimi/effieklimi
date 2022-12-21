@@ -1,9 +1,5 @@
 ### 👋 [effie.bio](effie.bio)
 
-My packages:
-- AURELIUS
-- SENECA
-- ZENO
 
 
 

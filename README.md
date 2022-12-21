@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋 **[effie.bio](effie.bio)
+
+My packages:
+- AURELIUS
+- SENECA
+- ZENO
+
+
 
 <!--
 **effieklimi/effieklimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 I'm Effie, final year PhD student in transcriptomics/miRNA biology/viral vectors/vascular disease at the University of Edinburgh. 
 
-**I work right where dry and wet lab meet;** both a biology techie and a wet lab scientist, so I am trying to harmonise the transition from wet to dry lab by and make sure nothing feels non-accissible to non-bioinformaticians. 
+> **I work right where dry and wet lab meet;** both a biology techie and a wet lab scientist, so I am trying to harmonise the transition from wet to dry lab by and make sure nothing feels non-accissible to non-bioinformaticians. 
 
 
 Working on simplifying the most useful analyses in biology down to requiring the most minimal input possible from the user.

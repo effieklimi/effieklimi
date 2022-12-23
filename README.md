@@ -1,4 +1,4 @@
-### 👋 effie.bio
+### 👋 [effie.bio](effie.bio)
 
 I like thinking about automatic scientific thinking and practice.
 

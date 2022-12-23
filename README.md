@@ -1,6 +1,12 @@
 ### 👋 [effie.bio](effie.bio)
 
-Two packages in the works..
+I like thinking about automatic scientific thinking and practice.
+
+Working on simplifying the most useful analyses in biology down to requiring the most minimal input possible from the user.
+- Two packages currently in the works... more to come soon
+
+Always looking for web developers and machine learning engineers interested in biology to automate science and build products with! If that is you, message me!
+
 
 
 <!--

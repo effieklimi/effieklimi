@@ -1,4 +1,4 @@
-### 👋 
+### 👋 I'm Effie, final year PhD student in transcriptomics/miRNA biology/viral vectors/vascular disease at the University of Edinburgh.
 
 I like thinking about automatic scientific thinking and practice.
 

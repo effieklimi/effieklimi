@@ -5,7 +5,7 @@ I'm Effie, final year PhD student in transcriptomics/miRNA biology/viral vectors
 > **I work right where dry and wet lab meet;** both a biology techie and a wet lab scientist, so I am trying to harmonise the transition from wet to dry lab by and make sure nothing feels non-accissible to non-bioinformaticians. 
 
 
-Working on simplifying the most useful analyses in biology down to requiring the most minimal input possible from the user.
+Working on simplifying the most used analyses in biology down to requiring the most minimal input possible from the user.
 	📦 Two packages currently in the works... more to come soon ⏳
 
 #### Always looking for web developers and machine learning engineers interested in biology to automate science and build products with! If that is you, message me!

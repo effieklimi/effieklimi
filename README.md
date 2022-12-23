@@ -1,6 +1,6 @@
 ### 👋✨💜🧬🔬
 
-I'm [Effie](https://www.effie.bio), final year PhD student in transcriptomics/miRNA biology/viral vectors/vascular disease at the University of Edinburgh. 
+I'm [Effie](www.effie.bio), final year PhD student in transcriptomics/miRNA biology/viral vectors/vascular disease at the University of Edinburgh. 
 
 > **I work right where dry and wet lab meet;** both a biology techie and a wet lab scientist, so I am trying to harmonise the transition from wet to dry lab by and make sure nothing feels non-accissible to non-bioinformaticians. 
 

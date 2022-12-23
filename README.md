@@ -2,7 +2,7 @@
 
 I'm Effie, final year PhD student in transcriptomics/viral vectors/vascular disease at the University of Edinburgh. 
 
-> **I work right where dry and wet lab meet;** both a biology techie and a wet lab scientist. Working on simplifying the most used analyses in biology down to requiring the most minimal input possible from the user.
+> **I work right where dry and wet lab meet;** both a computational biologist and a wet lab scientist. Working on simplifying the most used analyses in biology down to requiring the most minimal input possible from the user.
 
 
 #### 📦 Two packages currently in the works... more to come soon ⏳

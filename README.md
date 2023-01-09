@@ -6,7 +6,7 @@ I'm Effie, final year PhD student in transcriptomics/viral vectors/vascular dise
 
 #### 📦 Two packages currently in the works... more to come soon ⏳
 
-> Always looking for web developers and machine learning engineers interested in biology to automate science and build products with! If that is you, [contact me](mailto:hey@effie.bio)!
+> I am looking for machine learning engineers and web developers interested in biology to automate science and build products with! If that is you, [contact me](mailto:hey@effie.bio)!
 
 
 

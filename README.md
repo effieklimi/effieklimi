@@ -1,4 +1,3 @@
-### 👋✨💜🧬🔬
 
 I'm Effie, final year PhD student in transcriptomics/viral vectors/vascular disease at the University of Edinburgh. 
 

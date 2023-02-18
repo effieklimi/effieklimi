@@ -3,13 +3,6 @@ I'm Effie, final year PhD student in transcriptomics/viral vectors/vascular dise
 
 > **I work right where dry and wet lab meet;** both a computational biologist and a wet lab scientist. Working on simplifying the most used analyses in biology down to requiring the most minimal input possible from the user.
 
-
-#### 📦 Two packages currently in the works... more to come soon ⏳
-
-> I am looking for machine learning engineers and web developers interested in biology to automate science and build products with! If that is you, [contact me](mailto:hey@effie.bio)!
-
-
-
 <!--
 **effieklimi/effieklimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

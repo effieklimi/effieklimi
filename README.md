@@ -1,7 +1,5 @@
 
-Biology + coding 👩‍💻🧬
 
-[effie.bio](https://effie.bio/)
 
 
 <!--

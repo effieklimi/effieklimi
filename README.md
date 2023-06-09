@@ -1,6 +1,5 @@
 
 ## *Eftychia Klimi*
----
 👩‍💻👩‍ [effie.bio](effie.bio) 🇬🇷
 
 <!--

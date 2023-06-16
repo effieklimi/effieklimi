@@ -2,7 +2,6 @@
 ## *Eftychia Klimi*
 👩‍💻👩‍🔬 [effie.bio](effie.bio)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=effieklimi&layout=compact)
 
 
 <!--

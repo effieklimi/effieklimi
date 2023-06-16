@@ -2,7 +2,7 @@
 ## *Eftychia Klimi*
 👩‍💻👩‍🔬 [effie.bio](effie.bio)
 
-![👩‍💻](https://github-readme-stats.vercel.app/api/top-langs/?effieklimi=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=effieklimi&layout=compact)
 
 
 <!--

@@ -2,6 +2,8 @@
 ## *Effie Klimi*
 👩‍💻👩‍🔬 [effie.bio](https://effie.bio)
 
+I like well-designed multi-omics pipelines, coding, the Eastern Roman Empire, the romantic era, and quizes.
+
 
 
 <!--

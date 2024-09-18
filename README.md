@@ -1,6 +1,5 @@
 
 ## *Effie Klimi*
-👩‍💻👩‍🔬 [effie.bio](https://effie.bio)
 
 
 

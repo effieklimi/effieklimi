@@ -7,6 +7,7 @@ Currently working on:
 - [Vasco](vasco-drylab.vercel.app), a modern genome browser (under [Drylab](drylab-inc.github.io))
 - Noodle (coming soon), a LLM-assisted, powerful flash-card tool
 
+
 Email me at [hi@effie.bio](mailto:hi@effie.bio)
 
 [effie.bio](effie.bio)

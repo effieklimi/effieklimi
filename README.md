@@ -3,7 +3,7 @@
 
 Scientist (computational bio, genetics, RNA biology) / Programmer (full-stack web dev)
 
-Currently working on: 
+Currently building: 
 - [Vasco](vasco-drylab.vercel.app), a modern genome browser (under [Drylab](drylab-inc.github.io))
 - Noodle (coming soon), a LLM-assisted, powerful flash-card tool
 

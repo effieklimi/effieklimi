@@ -1,6 +1,8 @@
 
 ## Effie Klimi
 
+[effie.bio](https://effie.bio)
+
 Scientist (computational bio, genetics, RNA biology) / Programmer (full-stack web dev)
 
 Currently building: 
@@ -10,7 +12,7 @@ Currently building:
 
 Email me at [hi@effie.bio](mailto:hi@effie.bio)
 
-[effie.bio](https://effie.bio)
+
 
 <!--
 **effieklimi/effieklimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

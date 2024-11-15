@@ -5,7 +5,7 @@ Scientist (computational bio, genetics, RNA biology) / Programmer (full-stack we
 
 Currently building: 
 - [Vasco](https://vasco-drylab.vercel.app), a modern genome browser (under [Drylab](https://drylab-inc.github.io))
-- Noodle (coming soon), a LLM-assisted, powerful flash-card tool
+- Noodle (coming soon), an LLM-assisted, powerful flash-card tool
 
 
 Email me at [hi@effie.bio](mailto:hi@effie.bio)

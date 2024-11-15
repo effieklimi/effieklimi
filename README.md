@@ -1,8 +1,15 @@
 
-## *Effie Klimi*
+## Effie Klimi
 
+Scientist (computational bio, genetics, RNA biology) / Programmer (full-stack web dev)
 
+Currently working on: 
+- Vasco, a modern genome browser (under [Drylab](drylab-inc.github.io))
+- Noodle, a LLM-assisted, powerful flash-card tool
 
+Email me at [hi@effie.bio](mailto:hi@effie.bio)
+
+[effie.bio](effie.bio).
 
 <!--
 **effieklimi/effieklimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

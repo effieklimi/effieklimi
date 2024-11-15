@@ -1,8 +1,5 @@
 
-## Effie Klimi
-
-[effie.bio](https://effie.bio)
-
+## Effie Klimi - [effie.bio](https://effie.bio)
 Scientist (computational bio, genetics, RNA biology) / Programmer (full-stack web dev)
 
 Currently building: 

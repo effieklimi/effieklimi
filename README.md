@@ -1,6 +1,6 @@
 
 ## Effie Klimi - [effie.bio](https://effie.bio)
-Scientist (computational bio, genetics, RNA biology) / Programmer (full-stack web dev)
+Scientist (computational bio, genetics, RNA biology) / Product dev (full-stack)
 
 Currently building: 
 - [Vasco](https://vasco-drylab.vercel.app), a modern genome browser (under [Drylab](https://drylab-inc.github.io))

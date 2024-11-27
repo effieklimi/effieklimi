@@ -1,7 +1,8 @@
 
 ## Effie Klimi - [effie.bio](https://effie.bio)
 Scientist (computational bio, genetics, RNA biology) / Product dev (full-stack)
-Founder & CEO @ [Drylab](https://www.drylab.bio)
+
+Founder/CEO @ [Drylab](https://www.drylab.bio)
 
 Currently building: 
 - [Vasco](https://vasco.drylab.bio), a modern genome browser (by [Drylab](https://www.drylab.bio))

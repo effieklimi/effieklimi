@@ -1,10 +1,11 @@
 
 ## Effie Klimi - [effie.bio](https://effie.bio)
 Scientist (computational bio, genetics, RNA biology) / Product dev (full-stack)
+Founder & CEO @ [Drylab](https://www.drylab.bio)
 
 Currently building: 
 - [Vasco](https://vasco.drylab.bio), a modern genome browser (by [Drylab](https://www.drylab.bio))
-- Noodle (coming soon), an LLM-assisted, powerful flash-card tool
+- Numinosity (coming soon), an LLM-assisted, powerful flashcard tool built on top of Anki
 
 
 Email me at [hi@effie.bio](mailto:hi@effie.bio)

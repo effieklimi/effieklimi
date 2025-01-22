@@ -4,6 +4,7 @@ Scientist (computational bio, genetics, RNA biology) / Product dev (full-stack)
 
 Founder/CEO @ [Drylab](https://www.drylab.bio)
 
+<!--
 Currently building: 
 - [Vasco](https://vasco.drylab.bio), a modern genome browser (by [Drylab](https://www.drylab.bio))
 - Numinosity (coming soon), an LLM-assisted, powerful flashcard tool built on top of Anki

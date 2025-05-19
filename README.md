@@ -1,8 +1,7 @@
 
 ## Effie Klimi - [effie.bio](https://effie.bio)
-Scientist (computational bio, genetics, RNA biology) / Product dev (full-stack)
+Scientist (gene therapy, RNA biology & therapeutics, comp bio) 
 
-Founder/CEO @ [Drylab](https://www.drylab.bio)
 
 <!--
 Currently building: 
